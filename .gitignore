@@ -1,0 +1,26 @@
+# PHPUnit
+/vendor/
+/phpunit.xml
+/phpunit.xml.dist
+/tests/
+.phpunit.result.cache
+phpunit.phar
+phpunit.xml
+
+# PHP log files
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# WordPress specific
+wp-config.php
+wp-content/debug.log
+error_log
+
+# Node modules
+/node_modules/
+
+# Other files to ignore
+# Add any other file or directory you want to exclude from Git
